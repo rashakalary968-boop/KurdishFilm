@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AetherCinema</string>
+    <string name="auth_title">ENTER THE AETHER</string>
+    <string name="auth_subtitle">Authenticate with your subscriber access pass or cloud key to unlock 4K HDR cinema streaming.</string>
+    <string name="access_code_label">Access Code</string>
+    <string name="access_code_placeholder">e.g. AETHER-VIP-2027</string>
+    <string name="validate_button">Unlock Cinema Vault</string>
+    <string name="quick_fill_title">Demo &amp; Admin Access Passes</string>
+    <string name="search_placeholder">Search movies, directors, genres…</string>
+    <string name="trending_section">Trending Now</string>
+    <string name="categories_section">Browse by Genre</string>
+    <string name="catalog_section">Featured Releases</string>
+    <string name="watchlist_section">My Watchlist</string>
+    <string name="admin_panel_title">Cloud &amp; Catalog Studio</string>
+    <string name="add_movie_button">Add Movie</string>
+    <string name="cloud_sync_button">Cloud Database Sync</string>
+    <string name="watch_now">Stream Now</string>
+    <string name="resume_playback">Resume Stream</string>
+    <string name="logout_label">Switch Access Pass</string>
+</resources>

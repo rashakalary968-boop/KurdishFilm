@@ -1,0 +1,6 @@
+{
+  "name": "AetherCinema",
+  "description": "Sleek dark-themed movie streaming platform with subscription access code authentication, real-time search, embedded HD video player, and dynamic cloud & admin content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
